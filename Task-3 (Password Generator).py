@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 10 19:55:33 2024
-
-@author: Mohit Kumar Pani
-"""
-
 import random
 import string
 
